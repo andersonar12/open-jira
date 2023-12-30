@@ -1,4 +1,9 @@
 Next.js OpenJira App
+![Screenshot](1.png)
+ ![Screenshot](2.png)
+ ![Screenshot](3.png)
+ ![Screenshot](4.png)
+
 Para correr localmente se necesita la base de datos en MongoDB
 
 ```
